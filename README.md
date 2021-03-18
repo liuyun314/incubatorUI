@@ -88,7 +88,8 @@ ApplicationUtil类里面
 12.22-12.25 修改步数设置
 
 <<<<<<< HEAD
-03.18  github pull test
+03.18  github pull test 2
+
 
 =======
 >>>>>>> origin/master
